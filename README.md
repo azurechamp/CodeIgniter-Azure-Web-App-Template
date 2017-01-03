@@ -3,6 +3,8 @@
 This repository comes with deploy to Azure Support. Click on the button below to deploy it to Azure with MYSQL Database which is InApp MYSQL (Preview) by Microsoft.
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+### Deployment Guide
+http://www.doazure.com/single-click-deployment-of-codeigniter-with-mysql-azure/
 
 
 ###################
