@@ -1,4 +1,5 @@
-# Deploy to Azure Support
+# One Click Deployments
+## Deploy To Azure
 This repository comes with deploy to Azure Support. Click on the button below to deploy it to Azure with MYSQL Database which is InApp MYSQL (Preview) by Microsoft.
 
 [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
